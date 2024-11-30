@@ -58,8 +58,3 @@ This command will read the MD5 hashes from `hashes.txt` and attempt to crack the
 - Linux-based OS (Kali Linux recommended for CTF/penetration testing)
 - OpenSSL libraries (`libssl` and `libcrypto`)
 - GCC compiler
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-```
