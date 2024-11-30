@@ -63,5 +63,3 @@ This command will read the MD5 hashes from `hashes.txt` and attempt to crack the
 
 This project is open-source and available under the [MIT License](LICENSE).
 ```
-
-Feel free to update any sections as necessary for your project specifics! This `README.md` provides installation, usage instructions, and some basic project details for GitHub.
