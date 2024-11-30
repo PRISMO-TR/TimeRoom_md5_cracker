@@ -33,17 +33,13 @@ To install and set up the project, follow these steps:
 
 Once compiled, you can use the tool with the following commands:
 
-1. To crack hashes with a hash file and a password file:
+ To crack hashes with a hash file and a password file:
 
    ```bash
    ./TimeRoom_md5_cracker -H <hashfile> -P <passwordfile>
    ```
 
-2. To crack a single hash with a single password:
 
-   ```bash
-   ./TimeRoom_md5_cracker -h <hash> -p <password>
-   ```
 
 ### Example:
 
