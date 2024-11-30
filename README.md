@@ -1,6 +1,6 @@
 Here is a simple `README.md` file template for your GitHub repository:
 
-```markdown
+
 # TimeRoom_md5_cracker
 
 ## Description
