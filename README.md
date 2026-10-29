@@ -12,7 +12,7 @@ To install and set up the project, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Aziz-Omar-13/TimeRoom_md5_cracker.git
+   git clone https://github.com/PRISMO-TR/TimeRoom_md5_cracker.git
    ```
 
 2. Change directory to the project folder:
